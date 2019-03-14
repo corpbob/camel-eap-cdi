@@ -238,5 +238,8 @@
             </build>
         </profile>
     </profiles>
-
+<modules>
+       
+        <module>camel-cdi</module>
+	</modules>
 </project>
