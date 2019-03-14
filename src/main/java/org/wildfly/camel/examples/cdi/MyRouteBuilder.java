@@ -41,7 +41,7 @@ import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.cdi.ContextName;
 
 @ApplicationScoped
-@ContextName("camel-cdi-context")
+@ContextName("camel-eap-cdi-context")
 public class MyRouteBuilder extends RouteBuilder {
 
     @Override
