@@ -28,7 +28,7 @@
 
     <name>Wildfly Camel :: Example :: Camel CDI</name>
 
-    <artifactId>example-camel-cdi</artifactId>
+    <artifactId>camel-eap-cdi</artifactId>
     <packaging>war</packaging>
 
     <properties>
